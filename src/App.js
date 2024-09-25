@@ -35,7 +35,7 @@ function App() {
       <form
         onSubmit={submitHandler}
         action=""
-        className=" bg-[url('../public/image/bg.jpg')]  flex flex-col bg-cover mt-6 w-[40%]  px-[4rem] py-12 rounded-lg shadow-lg shadow-purple-900 relative"
+        className=" bg-[url('../public/image/bg.jpg')]  flex flex-col bg-cover mt-6   px-[4rem] py-12 rounded-lg shadow-lg shadow-purple-900 relative"
       >
         <div className="mt-[]">
           <label
